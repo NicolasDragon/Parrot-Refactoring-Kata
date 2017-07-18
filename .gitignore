@@ -2,3 +2,8 @@ PHP/vendor
 *.pyc
 .cache
 __pycache__
+.classpath
+.settings
+bin
+.project
+target
